@@ -37,3 +37,6 @@ Highly Rated(Preferred) Restaurant
 
 ![download](https://github.com/rajsaurav/Zomato-Bangalore-Restaurants-Dataset/assets/35574674/40feded2-edb4-40b9-88ee-e509ef34e28e)
 
+
+## Applications of Dataset
+Restaurants from all over the world can be found here in Bengaluru. From United States to Japan, Russia to Antarctica, you get all type of cuisines here. Delivery, Dine-out, Pubs, Bars, Drinks,Buffet, Desserts you name it and Bengaluru has it. Bengaluru is best place for foodies. The number of restaurant are increasing day by day. This industry hasn't been saturated yet. And new restaurants are opening every day. However it has become difficult for them to compete with already established restaurants. The key issues that continue to pose a challenge to them include high real estate costs, rising food costs, shortage of quality manpower, fragmented supply chain and over-licensing. It will help new restaurants in deciding their theme, menus, cuisine, cost etc for a particular location. It also aims at finding similarity between neighborhoods of Bengaluru on the basis of food.
